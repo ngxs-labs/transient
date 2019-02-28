@@ -7174,10 +7174,10 @@ ts-node@8.0.2:
     source-map-support "^0.5.6"
     yn "^3.0.0"
 
-tsickle@0.34.2:
-  version "0.34.2"
-  resolved "https://registry.yarnpkg.com/tsickle/-/tsickle-0.34.2.tgz#cc06c5de19c9e639d7a7fd69c4c57253e52fa858"
-  integrity sha512-dQnEfBdVb9AUFr/27zC2C1fs1FVPUek+GoCvTS34ZbgEwV/RwS8dGZPiGx6bV+nlDlpIgTwLJHuHhj7kPdbDsg==
+tsickle@0.34.3:
+  version "0.34.3"
+  resolved "https://registry.yarnpkg.com/tsickle/-/tsickle-0.34.3.tgz#8085067a26d7bff466ddadb2eba18849b49159b8"
+  integrity sha512-mb1v3nsr6rYaZky22xj0d6qv4ogAR40Bc6r37jwWOg3bEIO/ZppEFZiEADs/NNVLcWTPgmNmPZgaX5CfAH6oXA==
   dependencies:
     minimist "^1.2.0"
     mkdirp "^0.5.1"
@@ -7248,6 +7248,11 @@ typescript@3.2.4:
   version "3.2.4"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.2.4.tgz#c585cb952912263d915b462726ce244ba510ef3d"
   integrity sha512-0RNDbSdEokBeEAkgNbxJ+BLwSManFy9TeXz8uW+48j/xhEXv1ePME60olyzw2XzUqUBNAYFeJadIqAgNqIACwg==
+
+typescript@3.3.3333:
+  version "3.3.3333"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.3.3333.tgz#171b2c5af66c59e9431199117a3bcadc66fdcfd6"
+  integrity sha512-JjSKsAfuHBE/fB2oZ8NxtRTk5iGcg6hkYXMnZ3Wc+b2RSqejEqTaem11mHASMnFilHrax3sLK0GDzcJrekZYLw==
 
 uglify-js@^3.0.7:
   version "3.4.9"
