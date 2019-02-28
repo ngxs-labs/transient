@@ -1,0 +1,36 @@
+{
+  "$schema": "../node_modules/ng-packagr/package.schema.json",
+  "name": "@ngxs-labs/transient",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngxs-labs/transient.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ngxs-labs/transient#readme",
+  "bugs": {
+    "url": "https://github.com/ngxs-labs/transient/issues"
+  },
+  "keywords": [
+    "ngxs",
+    "redux",
+    "store",
+    "transient",
+    "state"
+  ],
+  "sideEffects": true,
+  "peerDependencies": {
+    "@angular/core": "^6.0.0 || ^7.0.0",
+    "@ngxs/store": ">=3.3.4"
+  },
+  "ngPackage": {
+    "lib": {
+      "flatModuleFile": "ngxs-labs-transient",
+      "entryFile": "index.ts",
+      "umdModuleIds": {
+        "@ngxs/store": "ngxs-store"
+      }
+    },
+    "dest": "../dist/transient"
+  }
+}
