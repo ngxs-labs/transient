@@ -18,11 +18,11 @@
     "state"
   ],
   "dependencies": {
-    "@angular/common": "7.2.7",
-    "@angular/compiler": "7.2.7",
-    "@angular/core": "7.2.7",
-    "@angular/platform-browser": "7.2.7",
-    "@angular/platform-browser-dynamic": "7.2.7",
+    "@angular/common": "9.1.4",
+    "@angular/compiler": "9.1.4",
+    "@angular/core": "9.1.4",
+    "@angular/platform-browser": "9.1.4",
+    "@angular/platform-browser-dynamic": "9.1.4",
     "@ngxs/store": "3.4.0",
     "rxjs": "6.4.0",
     "zone.js": "0.8.29"
