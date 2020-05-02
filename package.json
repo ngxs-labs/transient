@@ -25,7 +25,7 @@
     "@angular/platform-browser-dynamic": "7.2.7",
     "@ngxs/store": "3.4.0",
     "rxjs": "6.4.0",
-    "zone.js": "0.8.29"
+    "zone.js": "0.10.3"
   },
   "devDependencies": {
     "@angular-builders/jest": "7.3.1",
